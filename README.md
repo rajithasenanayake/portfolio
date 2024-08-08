@@ -1,4 +1,4 @@
-# Gradute Student: Master of Science in Statistics
+# Gradute Student
 
 ### Work Experience
 ---------
