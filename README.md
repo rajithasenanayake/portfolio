@@ -2,7 +2,12 @@
 
 ### Work Experience
 ---------
-
+* McMaster University - Hamilton, Canada
+  - Teaching Assistant 
+* OCTAVE John Keells Holdings PLC - Colombo, Sri Lanka
+  - Data Science and Engineering Associate
+  - Data Science Intern
+    
 ### Eduction
 ---------
 * McMaster University - Hamilton, Canada
