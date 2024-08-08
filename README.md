@@ -4,7 +4,6 @@
 ---------
 * McMaster University - Hamilton, Canada
   - <span style="font-size:0.9em;">Teaching Assistant (Sep 2023 - Present)</span>
-
 * OCTAVE John Keells Holdings PLC - Colombo, Sri Lanka
   - <span style="font-size:0.9em;">Data Science and Engineering Associate (May 2022 - Jul 2023)</span>
  
