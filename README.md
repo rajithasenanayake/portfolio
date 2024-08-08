@@ -17,7 +17,7 @@
 
 ### Certifications
 ---------
-* Microsoft Certified Azure Data Science Associate (Aug 2024 - Aug 2025)
+* Microsoft Certified Azure Data Science Associate (2024)
 * IBM Data Science Professional Certificate (2020)
 * Tensorflow in Practice Specialization (2020)
 
